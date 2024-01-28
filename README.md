@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Jamal
 
 I'm passionate about data analysis and thrive on turning raw data into actionable insights. 
 My goal is to pursue a career in the field of data analysis, leveraging my skills in Excel, SQL, and Tableau.
